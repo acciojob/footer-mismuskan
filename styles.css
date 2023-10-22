@@ -1,1 +1,30 @@
 /* your code here */
+.content{
+	background-color:black;
+}
+.top{
+	padding:10px;
+	font-size:25px;
+	display:flex;
+justify-content:space-between	
+}
+.media-icons{
+margin:1px;
+}
+table{
+	width:100%;
+	align-items:center;
+	text-align:left;
+	 }
+body{
+	color:white;
+}
+.link-boxes{
+	padding:10px;
+}
+.bottom-details{
+	display:flex;
+	bottom:0px;
+	background-color:gray;
+	justify-content:space-between;
+}
